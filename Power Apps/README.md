@@ -12,6 +12,8 @@ Bu uygulamada çeşitli marka ve modeldeki bilgisayarları karşılaştırarak b
 - Koşullandırma
 - Buton, checkbox, text label kullanımı & düzenleme
 - Gruplandırma
+- Tablolarla çalışma (Sütunlar, İş kuralları)
+- Uygulamaya veri kaynağı olarak Dataverse tablosu ekleme
 
 # APP : DEVICE ORDERING
 
@@ -27,3 +29,5 @@ In this application, you can get information by comparing computers of various b
 - Conditioning
 - Button, checkbox, text label usage & editing
 - Grouping
+- Working with Tables (Columns, Business rules,)
+- Adding Dataverse table as a data source to the app 
