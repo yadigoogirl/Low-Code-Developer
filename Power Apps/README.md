@@ -1,6 +1,6 @@
 # UYGULAMA : CİHAZ SİPARİŞİ
 
-Bu uygulamada çeşitli marka ve modeldeki bilgisayarları karşılaştırarak bilgi edinebilir, bu bilgilerle sipariş oluşturabilirsiniz.
+Bu uygulamada çeşitli marka ve modeldeki bilgisayarları karşılaştırarak bilgi edinebilir, bu bilgilerle sipariş oluşturabilirsiniz. Siparişinizin onay veya red durumundaki bilgilendirilmeyi de otomatik olarak alacaksınız.
 
 **Yapılan işlemler:**
 - Ekran oluşturma & düzenleme
