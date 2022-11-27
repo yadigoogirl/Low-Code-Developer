@@ -1,3 +1,6 @@
-# Time Tracker
+# Time Tracing Flow
 **Scenario:** When a user pushes a button, the current time and the current location will be saved in an Excel 
 document stored in OneDrive for Business.
+
+# Zaman Takibi Akışı
+**Senaryo:** Bir kullanıcı bir düğmeye bastığında, geçerli saat ve geçerli konum bilgilerini, OneDrive İş'te saklanan bir Excel belgesine kaydetme otomasyonu.
