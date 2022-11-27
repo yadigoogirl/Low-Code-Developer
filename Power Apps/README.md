@@ -14,6 +14,7 @@ Bu uygulamada çeşitli marka ve modeldeki bilgisayarları karşılaştırarak b
 - Gruplandırma
 - Tablolarla çalışma (Sütunlar, İş kuralları)
 - Uygulamaya veri kaynağı olarak Dataverse tablosu ekleme
+- Power Automate: Onay / Red durumlarındaki işlemler
 
 # APP : DEVICE ORDERING
 
@@ -31,3 +32,4 @@ In this application, you can get information by comparing computers of various b
 - Grouping
 - Working with Tables (Columns, Business rules,)
 - Adding Dataverse table as a data source to the app 
+- Power Automate: Automation in approval & Rejection statuses
