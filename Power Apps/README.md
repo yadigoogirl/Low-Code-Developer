@@ -11,3 +11,4 @@ Yapılan işlemler:
 - Filtreleme
 - Koşullandırma
 - Buton, checkbox, text label kullanımı & düzenleme
+- Gruplandırma
