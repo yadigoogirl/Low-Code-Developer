@@ -17,7 +17,7 @@ Bu uygulamada çeşitli marka ve modeldeki bilgisayarları karşılaştırarak b
 
 In this application, you can get information by comparing computers of various brands and models, and can create an order.
 
-**Operated Transactions:**
+**Actions taken:**
 - Screen creation & editing
 - Using Horizontal Gallery
 - Connecting to data
